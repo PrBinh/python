@@ -1,4 +1,1 @@
 print("This is my new project")
-a=input("Nhap vao 1 so:")
-print(a)
-print("update my project)
